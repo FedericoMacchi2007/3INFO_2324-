@@ -1,0 +1,82 @@
+.contenitore {
+    background-color: #88ABC2;
+    border: 2px solid black;
+    height: 97vh;
+    margin: auto;
+    width: 80%;
+}
+
+.header {
+    background-color: #FF9C56;
+border: 1px solid red;
+width: 100%;
+height: 80px;
+}
+
+.post{
+    background-color: #AAD637;
+    
+border: 1px solid black;
+margin: auto;
+width: 95%;
+height: 200px;
+margin-top: 1rem;
+padding-left: 1rem;
+padding-top: 1rem;
+
+}
+
+.titolo{
+border: 0px solid black;
+
+
+}
+
+
+.foto{
+
+background-color: #708C24;
+float: left;
+border: 1px solid black;
+width: 20%;
+height: 100px;
+margin-top: 1rem;
+}
+
+
+.testo {
+    float: left;
+    background-color: #708c24;
+    border: 1px solid black;
+    width: calc(80% - 4rem);
+    height: 50%;
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
+
+
+#logo{
+border: 0px solid blue;
+background-color: #FF4D79;
+width: 120px;
+height: 40px;
+text-align: center;
+float: left;
+line-height: 40px;
+margin-top: 20px;
+margin-left: 20px;
+
+}
+
+#navigation{
+    border: 0px solid blue;
+    background-color: #FF4D79;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    float: right;
+    line-height: 40px;
+    margin-top: 20px;
+    margin-right: 20px;
+    
+}
